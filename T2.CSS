@@ -1,0 +1,258 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+/*大盒子*/
+.box{
+	width: 94%;
+	height: 99px;
+	background: #faf9f7;
+	overflow: hidden;
+	border-bottom: 1px solid #f3f2f0;
+	margin: 0 auto;		
+}
+/*中间小盒子*/
+.boxa{
+	width: 1219px;
+	height: 41px;
+	background: #faf9f7;
+	margin-left: 65px;
+	margin-right: 65px;
+	margin-top: 30px;
+	margin-bottom: 29px;
+}
+/*图片小盒子*/
+.boxc{
+	float: left;
+	width: 41px;
+	height: 41px;
+}
+/*左边图片盒子*/
+.boxb{
+	width:41px;
+	height: 41px;
+	float: left;
+}
+/*中间盒子*/
+.boxd{
+	width: 114px;
+	height: 41px;
+	background: #faf9f7;
+	float: right;
+}
+/*右边盒子*/
+.boxe{
+	width: 1064px;
+	height: 41px;
+	background: #faf9f7;
+	float:right;
+}
+/*顶部内容*/
+.boxe ul li{
+	list-style: none;
+	float: left;
+	margin-left: 52px;
+	line-height: 41px;
+	font-size: 12px;
+	color: #9e9e9d;
+}
+/*小杠杠*/
+.boxf{
+	float: right;
+	color: #cccccc;
+}
+.boxg,.boxh{
+	display: inline-block;
+	line-height: 41px;
+	margin: 0 20px;
+	list-style: none;
+	color: #9e9e9d;
+}
+/*第二部分开始*/
+.cox{
+	width: 94%;
+	height: 37px;
+	background: #faf9f7;
+	margin: 0 auto;
+}
+.coxa{
+	width: 91%;
+	height: 37px;
+	background: #faf9f7;
+	margin: 0 auto;
+}
+/*三个内容盒子*/
+.coxb{
+	width: 27%;
+	height: 37px;
+	line-height: 37px;
+	background: #faf9f7;
+	float: left;
+}
+.coxc{
+	width: 10%;
+	height: 37px;
+	line-height: 37px;
+	background: #faf9f7;
+	float: right;
+	color: #9c9b9a;
+	font-size: 14px;
+}
+.coxd{
+	font-weight: bold;
+	width:10%;
+	height: 34px;
+	line-height: 37px;
+	float: right;
+	border:none;
+	background: #5e8bf2;
+	color: #fefefe;
+	border-radius: 3px;
+	font-size: 16px;
+	margin-top: 2px;
+}
+.coxe li{
+	list-style: none;
+	float: left;
+	margin-right: 24px;
+	font-size: 14px;
+	color: #9c9b9a;
+}
+.coxe .yy{
+	color: black;
+}
+
+/*第二部分结束*/
+/*第三部分图片开始*/
+.coxf{
+	width: 94%;
+	margin: 0 auto;
+}
+.coxf img{
+	width: 100%;
+}
+.coxg{
+	width: 94%;
+	margin: 0 auto;
+	border-bottom: 2px solid #eeeeee;
+}
+.coxg img{
+	width: 100%;
+}
+/*图片结束*/
+/*底部导航开始*/
+.dox{
+	width: 1268.05px;
+	height: 61px;
+	background: #fafafa;
+	margin: 0 auto;
+}
+.nn{
+	width: 1268.05px;
+	height: 108px;
+	background: #fafafa;
+	margin: 0 auto;
+	box-sizing: border-box;
+	padding-left: 64px;
+	padding-right: 64px;
+}
+.mm{
+	width: 1268.05px;
+	height: 61px;
+	background: #fafafa;
+	margin: 0 auto;
+}
+.pp{
+	width: 795px;
+	height: 108px;
+	background: #fafafa;
+	float: left;
+}
+.ll{
+	width: 183px;
+	height: 108px;
+	background: #fafafa;
+	float: right;
+}
+.pp1,.pp2,.pp3,.pp4,.pp5,.pp6{
+	width: 132px;
+	height: 108px;
+	background: #fafafa;
+	float: left;
+}
+.nn li{
+	list-style: none;
+}
+.app{
+	width: 10px;
+	height: 30px;
+}
+.abb{
+	font-size: 14px;
+	color: #969696;
+}
+.zx{
+	float: left;
+	color: #5079d9;
+	margin-bottom: 10px;
+	font-size: 22px;
+}
+.zxc{
+	color: #999999;
+	float: right;
+	font-size: 13px;
+	margin-bottom: 5px;
+}
+.zxb{
+	color: #999999;
+	float: right;
+	font-size: 13px;
+	margin-bottom: 10px;
+}
+.zxcv{
+	width:140px;
+	margin: 0 auto;
+	height: 30px;
+	background: #f9f9f9;
+	float: right;
+	text-align: center;
+	line-height: 30px;
+	border: 1px solid #d0d0d0;
+	border-radius: 6px;
+}
+.zxcv i,.zxcv h3{
+	display: inline-block;
+	color: #5079df;
+}
+.kk{
+	width: 1268.05px;
+	height: 32px;
+	margin: 0 auto;
+}
+.jj{
+	height: 40px;
+	width: 1268.05px;
+	margin: 0 auto;
+	background: #fafafa;
+}
+.jj span{
+	display: block;
+	font-size: 12px;
+	line-height: 20px;
+	color: #ababab;
+}
+.kk{
+	background: #fafafa;
+}
+/*底部导航结束/*/
+/*下拉条*/
+.rr{
+	height: 500px;
+	width: 100px;
+}
+.jia{
+	margin: 0 auto;
+}
+.jia img{
+	width: 1268.05px;
+}
